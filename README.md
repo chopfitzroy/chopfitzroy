@@ -8,7 +8,7 @@ I am currently learning about [Effect](https://effect.website/) and [LiveStore](
 
 ### Stance on AI
 
-AI has fundamentally changed the way software engineering works and while I may be mourning by craft the industry marches onward. I don't have anything to say that hasn't already been said by others:
+AI has fundamentally changed the way software engineering works and while I may be mourning my craft the industry marches onward. I don't have anything to say that hasn't already been said by others:
 
 - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 - [The diminished art of coding](https://nolanlawson.com/2026/03/22/the-diminished-art-of-coding/)
@@ -22,6 +22,6 @@ AI has fundamentally changed the way software engineering works and while I may 
 
 99.99% of the _thought leaders_ in the space [are talking utter bullshit](https://www.youtube.com/watch?v=1r9n-HsBQsE) and should be ignored, the best advice I can give is to play with the tools and figure out what works for you.
 
-Not that it matters but I use a workflow very similar to what [Boris Tane is doing](https://boristane.com/blog/how-i-use-claude-code/). I have the agent write a plan in plain markdown, I annotate it in [Helix](https://helix-editor.com/), the agent revise until I am happy and then it executes.
+Not that it matters but I use a workflow very similar to what [Boris Tane is doing](https://boristane.com/blog/how-i-use-claude-code/). I have the agent write a plan to a markdown file, I annotate it in [`hx`](https://helix-editor.com/), I have the agent revise, I repeat this process until I am happy and then have the agent execute the plan.
 
 I use [`pi`](https://shittycodingagent.ai/) with [Docker sandboxes](https://docs.docker.com/ai/sandboxes/) because frankly I'm terrified of [some of the stories out there](https://blog.barrack.ai/amazon-ai-agents-deleting-production/) and want my agent as locked down as possible.
