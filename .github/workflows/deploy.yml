@@ -26,13 +26,13 @@ jobs:
           args: >-
             --standalone
             --metadata title="Otis Sutton"
-            --output=index.html
+            --output=dist/index.html
             README.md
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: dist
 
   deploy:
     needs: build
