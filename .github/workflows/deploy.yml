@@ -20,26 +20,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Convert to HTML
+      - name: Convert README to index.html
         uses: docker://pandoc/core:3.8
         with:
           args: >-
             --standalone
             --metadata title="Otis Sutton"
             --css=css/styles.css
-            --output=dist/index.html
+            --output=index.html
             README.md
-
-      - name: Copy static assets
-        run: |
-          mkdir -p dist/css dist/assets
-          cp css/styles.css dist/css/
-          cp assets/DepartureMono-Regular.woff2 dist/assets/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: .
 
   deploy:
     needs: build
