@@ -1,6 +1,6 @@
 ### About
 
-Hi I'm Otis 👋 I am currently working as a senior software developer at [The Conqueror Challenges](https://www.theconqueror.events/).
+Hi I'm Otis 👋 I am currently working as a senior software engineer at [The Conqueror Challenges](https://www.theconqueror.events/). I am also a co-founder of [Bookbear](https://bookbear.app/) and work on this part time.
 
 I'm interested in finite state machines, functional programming, and static site generators.
 
@@ -22,6 +22,24 @@ AI has fundamentally changed the way software engineering works and while I may 
 
 99.99% of the _thought leaders_ in the space [are talking utter bullshit](https://www.youtube.com/watch?v=1r9n-HsBQsE) and should be ignored, the best advice I can give is to play with the tools and figure out what works for you.
 
-Not that it matters but I use a workflow very similar to what [Boris Tane is doing](https://boristane.com/blog/how-i-use-claude-code/). I have the agent write a plan to a markdown file, I annotate it in [`hx`](https://helix-editor.com/), I have the agent revise, I repeat this process until I am happy and then have the agent execute the plan.
+Not that it matters but my current workflow is very inspired by [Boris Tane](https://boristane.com/blog/how-i-use-claude-code/), I have the agent write a plan to a markdown file, I annotate it in [`hx`](https://helix-editor.com/), I have the agent revise, I repeat this process until I am happy and then have the agent execute the plan.
 
-I use [`pi`](https://shittycodingagent.ai/) with [Docker sandboxes](https://docs.docker.com/ai/sandboxes/) because frankly I'm terrified of [some of the stories out there](https://blog.barrack.ai/amazon-ai-agents-deleting-production/) and want my agent as locked down as possible.
+### Projects I think everyone should know about
+
+- [XState](https://xstate.js.org/)
+- [Soupault](https://soupault.net/) ([this article](https://tiffnix.com/soupault) gives a great overview)
+
+### Talks I think everyone should watch
+
+- [The WET codebase](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
+- [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
+
+### Articles I think everyone should read
+
+- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
+- [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
+
+### Socials
+
+- [GitHub](https://github.com/chopfitzroy)
+- [LinkedIn](https://www.linkedin.com/in/otiswright/)

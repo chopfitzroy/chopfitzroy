@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('../assets/fonts/MonaSansVF[wdth,wght,opsz,ital].woff2') format('woff2-variations'),
+       url('../assets/fonts/MonaSansVF[wdth,wght,opsz,ital].woff') format('woff-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mona Sans Mono';
+  src: url('../assets/fonts/MonaSansMonoVF[wght].woff2') format('woff2-variations'),
+       url('../assets/fonts/MonaSansMonoVF[wght].woff') format('woff-variations');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Mona Sans', ui-sans-serif, system-ui, sans-serif;
+  margin: 0 auto;
+  padding: 2rem;
+  max-width: 42rem;
+}
+
+code, pre, kbd, samp {
+  font-family: 'Mona Sans Mono', ui-monospace, monospace;
+}
