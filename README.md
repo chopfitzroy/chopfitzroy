@@ -24,6 +24,18 @@ AI has fundamentally changed the way software engineering works and while I may 
 
 Not that it matters but my current workflow is very inspired by [Boris Tane](https://boristane.com/blog/how-i-use-claude-code/), I have the agent write a plan to a markdown file, I annotate it in [`hx`](https://helix-editor.com/), I have the agent revise, I repeat this process until I am happy and then have the agent execute the plan.
 
+### Languages I am comfortable in
+
+- [Lua](https://www.lua.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+### Languages I am interested in
+
+- [Zig](https://ziglang.org/)
+- [Roc](https://roc-lang.org/)
+- [Gleam](https://gleam.run/)
+- [OCaml](https://ocaml.org/)
+
 ### Projects I think everyone should know about
 
 - [XState](https://xstate.js.org/)
@@ -36,6 +48,7 @@ Not that it matters but my current workflow is very inspired by [Boris Tane](htt
 
 ### Articles I think everyone should read
 
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 
