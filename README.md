@@ -35,6 +35,7 @@ Not that it matters but my current workflow is very inspired by [Boris Tane](htt
 - [Roc](https://roc-lang.org/)
 - [Gleam](https://gleam.run/)
 - [OCaml](https://ocaml.org/)
+- [Steel](https://github.com/mattwparas/steel) (primarily because it's what [`hx`](https://helix-editor.com/) uses for plugins)
 
 ### Projects I think everyone should know about
 
