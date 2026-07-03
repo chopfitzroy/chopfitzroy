@@ -1,6 +1,6 @@
 ### About
 
-Hi I'm Otis 👋 I am currently working as a senior software engineer at [The Conqueror Challenges](https://www.theconqueror.events/). I am also a co-founder of [Bookbear](https://bookbear.app/) and work on this part time.
+Hi I'm Otis 👋 I am currently working as a senior software engineer at [The Conqueror Challenges](https://www.theconqueror.events/). I am also a co-founder of [Bookbear](https://bookbear.app/) which I work on part time.
 
 I'm interested in finite state machines, functional programming, and static site generators.
 
@@ -22,7 +22,7 @@ AI has fundamentally changed the way software engineering works and while I may 
 
 99.99% of the _thought leaders_ in the space [are talking utter bullshit](https://www.youtube.com/watch?v=1r9n-HsBQsE) and should be ignored, the best advice I can give is to play with the tools and figure out what works for you.
 
-I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://openrouter.ai/) and a workflow very similar to what [this](https://boristane.com/blog/how-i-use-claude-code/).
+I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://openrouter.ai/) and a workflow very similar to [this](https://boristane.com/blog/how-i-use-claude-code/).
 
 ### Languages I am comfortable in
 
