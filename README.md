@@ -22,7 +22,7 @@ AI has fundamentally changed the way software engineering works and while I may 
 
 99.99% of the _thought leaders_ in the space [are talking utter bullshit](https://www.youtube.com/watch?v=1r9n-HsBQsE) and should be ignored, the best advice I can give is to play with the tools and figure out what works for you.
 
-Not that it matters but my current workflow is very inspired by [Boris Tane](https://boristane.com/blog/how-i-use-claude-code/), I have the agent write a plan to a markdown file, I annotate it in [`hx`](https://helix-editor.com/), I have the agent revise, I repeat this process until I am happy and then have the agent execute the plan.
+I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://openrouter.ai/) and a workflow very similar to what [this](https://boristane.com/blog/how-i-use-claude-code/).
 
 ### Languages I am comfortable in
 
@@ -33,19 +33,20 @@ Not that it matters but my current workflow is very inspired by [Boris Tane](htt
 
 - [Zig](https://ziglang.org/)
 - [Roc](https://roc-lang.org/)
+- [Steel](https://github.com/mattwparas/steel)
 - [Gleam](https://gleam.run/)
 - [OCaml](https://ocaml.org/)
-- [Steel](https://github.com/mattwparas/steel) (primarily because it's what [`hx`](https://helix-editor.com/) uses for plugins)
 
 ### Projects I think everyone should know about
 
 - [XState](https://xstate.js.org/)
 - [Soupault](https://soupault.net/) ([this article](https://tiffnix.com/soupault) gives a great overview)
 
-### Talks I think everyone should watch
+### Talks I think everyone should listen to
 
 - [The WET codebase](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
 - [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
+- [Functional Programming for Pragmatists](https://www.youtube.com/watch?v=3n17wHe5wEw)
 
 ### Articles I think everyone should read
 
