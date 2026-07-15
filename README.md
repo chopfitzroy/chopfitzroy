@@ -54,6 +54,23 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 
+### Tenets that I believe lead to good software
+
+- [Locality of behavior](https://htmx.org/essays/locality-of-behaviour/)
+- Optimize for disposability
+- Constraints foster innovation
+
+### Ideals I try to live by
+
+- Be a pragmatist not a purist
+- Strong opinions, loosely held
+- [No "yes." Either "HELL YEAH!" or "no."](https://sive.rs/hellyeah)
+
+### Random hardware I think is cool
+
+- [Trimui Brick](https://trimui.net/collections/trimui-brick)
+- [reMarkable 2](https://remarkable.com/products/remarkable-2)
+
 ### Socials
 
 - [GitHub](https://github.com/chopfitzroy)
