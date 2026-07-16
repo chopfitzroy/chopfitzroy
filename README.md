@@ -40,6 +40,7 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 ### Projects I think everyone should know about
 
 - [XState](https://xstate.js.org/)
+- [smolweb](https://smolweb.org/)
 - [Soupault](https://soupault.net/) ([this article](https://tiffnix.com/soupault) gives a great overview)
 
 ### Talks I think everyone should listen to
