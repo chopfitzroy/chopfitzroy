@@ -15,6 +15,7 @@ AI has fundamentally changed the way software engineering works and while I may 
 - [The programmer identity crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
 - [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
+- [Faulty Towers, vibe sickness, and the vibe bobsled](https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/)
 
 **TL;DR** Not using AI feels like career suicide in the current climate so while it completely removes the joy from my work I use it as a means to an end.
 
