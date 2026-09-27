@@ -27,17 +27,28 @@ In a time when software has never felt more unstable and the [five nines]() feel
 
 Complexity compounds.
 
+Machines can only add to or maintain system entropy but never decrease it. - Find quote.
+
 ### On friction
 
-Friction equals focus, and focus equals product.
+Friction equals focus, and focus equals product. - Find quote.
+
 
 ### On ego
 
-There is a lot of [weird takes]() out there at the moment that seem to imply that engineers are upset because now other people can do what they did. I don't think this is true at all I think engineers are upset because they are being asked to give up something they value, namely problem solving at a systems level.
+There is a lot of [weird takes](https://x.com/ryanflorence/status/2102849480760721664) out there at the moment that seem to imply that engineers are upset because the barrier to software engineering is now less. This fundamentally flies in the face of the industry as a whole, name an industry more welcoming or more generous with their time. I can't think of any other industry on earth that has an opensource community in the way software engineering does. Software engineering was never _difficult_ to get into but it was _challenging_ and took a certain personality type to keep going when things became difficult.
 
-Maybe there are engineers out there who genuinely do feel upset that there is no longer a moat but every conversation I've had has always boiled down to [craft lovers losing their craft]() and has nothing to do with software creation become more generally available.
+Maybe there are engineers out there who genuinely do feel upset that there is no longer a moat but every conversation I've had has always boiled down to [craft lovers losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/) and has nothing to do with software creation becoming more accessible. In fact most people I've talked to are excited about software being more accessible and are hopefull that it will get more people excited about the industry as a whole.
+
+So no I don't buy this narrative for a second it demonstrates a severe lack of empathy or understanding of what some people are going through and doesn't add any real value to the discourse surround the monumental changes our industry is experiencing.
 
 ### Conclusion
+
+In short I think we are focusing on the wrong things when we talk about what agents and LLM's are doing to software engineering, the discourse is almost entirely centered around effeciency - and why shouldn't it be most of us write software for money so the more effecient we can be the more money we can make, or at least that's the theory.
+
+I think a more useful thing to focus on is understanding or to use a trendy term [comprehension debt](https://madecurious.com/articles/what-is-comprehension-debt/) and what the long term implications of LLM usage in systems really are.
+
+TODO - talk about the trade offs even if an LLM writes software better than a human in 100% of cases the human now doesn't understand the underlying system and as a result can't meaningfully improve it. If the value in LLM's is their encyclopedic knowledge as well as never resting then use them to review / break / critique the code the human as written. Worst case scenario the LLM is right which the human will be able to accurately guage because they have built up an understanding during the implementation and they make the improvements now the software is in the best state it could have been AND the human understands it fully - the only loss here is time in the sense that the LLM could have done it faster than the human and that you'd get the same result (which is iffy at best).
 
 Invalidate, challenge, review.
 
