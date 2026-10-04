@@ -6,12 +6,12 @@ I'm interested in finite state machines, functional programming, and static site
 
 Things I'm doing in my free time:
 
+- Learning [`hledger`](https://hledger.org/)
 - Working on [thinkagain.tech](https://github.com/chopfitzroy/thinkagain.tech)
 - Working on [gameofgnomes.blog](https://github.com/chopfitzroy/gameofgnomes.blog)
-- Learning [`hledger`](https://hledger.org/)
-- Working on my Table Top Roleplaying Game
 - Playing [World of Warcraft Forever](https://worldofwarcraft.blizzard.com/en-gb/forever)
 - Playing [ROM hacks](https://en.wikipedia.org/wiki/ROM_hacking) on my [Trimui Brick](https://trimui.net/collections/trimui-brick)
+- Working on my Table Top Roleplaying Game
 
 ### Stance on AI
 
