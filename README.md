@@ -5,6 +5,7 @@ Hi I'm Otis 👋 I am currently working as a senior software engineer at [The Co
 I'm interested in finite state machines, functional programming, and static site generators.
 
 Things I'm doing in my free time:
+
 - Working on [thinkagain.tech](https://github.com/chopfitzroy/thinkagain.tech)
 - Working on [gameofgnomes.blog](https://github.com/chopfitzroy/gameofgnomes.blog)
 - Learning [`hledger`](https://hledger.org/)
