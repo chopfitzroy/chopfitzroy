@@ -4,7 +4,13 @@ Hi I'm Otis 👋 I am currently working as a senior software engineer at [The Co
 
 I'm interested in finite state machines, functional programming, and static site generators.
 
-I am currently learning about [Effect](https://effect.website/) and [LiveStore](https://livestore.dev/) in my own time to keep my _programmer brain_ stimulated.
+Things I'm doing in my free time:
+- Working on [thinkagain.tech](https://github.com/chopfitzroy/thinkagain.tech)
+- Working on [gameofgnomes.blog](https://github.com/chopfitzroy/gameofgnomes.blog)
+- Learning [`hledger`](https://hledger.org/)
+- Working on my Table Top Roleplaying Game
+- Playing [World of Warcraft Forever](https://worldofwarcraft.blizzard.com/en-gb/forever)
+- Playing [ROM hacks](https://en.wikipedia.org/wiki/ROM_hacking) on my [Trimui Brick](https://trimui.net/collections/trimui-brick)
 
 ### Stance on AI
 
@@ -34,7 +40,8 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 
 - [Zig](https://ziglang.org/)
 - [Roc](https://roc-lang.org/)
-- [Steel](https://github.com/mattwparas/steel)
+- [Elm](https://elm-lang.org/) (yes it's still [alive](https://elm-lang.org/news/faster-builds))
+- [Steel](https://github.com/mattwparas/steel) (I want to learn a lisp and this is used in [Helix](https://helix-editor.com/))
 - [Gleam](https://gleam.run/)
 - [OCaml](https://ocaml.org/)
 
@@ -68,7 +75,7 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 - Strong opinions, loosely held
 - [No "yes." Either "HELL YEAH!" or "no."](https://sive.rs/hellyeah)
 
-### Random hardware I think is cool
+### Hardware I like
 
 - [Trimui Brick](https://trimui.net/collections/trimui-brick)
 - [reMarkable 2](https://remarkable.com/products/remarkable-2)
