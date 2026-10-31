@@ -11,7 +11,7 @@ Things I'm doing in my free time:
 - Working on [gameofgnomes.blog](https://github.com/chopfitzroy/gameofgnomes.blog)
 - Playing [World of Warcraft Forever](https://worldofwarcraft.blizzard.com/en-gb/forever)
 - Working on my Table Top Roleplaying Game
-- Playing on my [RG SP](https://anbernic.com/products/rg-sp) running [BaseOS](https://github.com/pvaibhav/BaseOS) with the [slot.](https://slot-cfw.fyi/) frontend
+- Playing on my [RG SP](https://anbernic.com/products/rg-sp) running [BaseOS](https://github.com/pvaibhav/BaseOS) with the [slot](https://slot-cfw.fyi/) frontend
 
 ### Stance on AI
 
