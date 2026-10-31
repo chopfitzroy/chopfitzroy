@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'Mona Sans';
   src: url('../assets/fonts/MonaSansVF[wdth,wght,opsz,ital].woff2') format('woff2-variations'),
-       url('../assets/fonts/MonaSansVF[wdth,wght,opsz,ital].woff') format('woff-variations');
+    url('../assets/fonts/MonaSansVF[wdth,wght,opsz,ital].woff') format('woff-variations');
   font-weight: 200 900;
   font-stretch: 75% 125%;
   font-style: normal;
-  font-display: swap;
+  font-display: block;
 }
 
 @font-face {
   font-family: 'Mona Sans Mono';
   src: url('../assets/fonts/MonaSansMonoVF[wght].woff2') format('woff2-variations'),
-       url('../assets/fonts/MonaSansMonoVF[wght].woff') format('woff-variations');
+    url('../assets/fonts/MonaSansMonoVF[wght].woff') format('woff-variations');
   font-weight: 200 900;
   font-style: normal;
-  font-display: swap;
+  font-display: block;
 }
 
 body {
@@ -24,6 +24,9 @@ body {
   max-width: 42rem;
 }
 
-code, pre, kbd, samp {
+code,
+pre,
+kbd,
+samp {
   font-family: 'Mona Sans Mono', ui-monospace, monospace;
 }

@@ -59,8 +59,8 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 
 ### Articles I think everyone should read
 
-- [The Decoherence trap](https://maevyn.codes/decoherence)
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [The Decoherence trap](https://maevyn.codes/decoherence)
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 
 ### Tenets that I believe lead to good software
