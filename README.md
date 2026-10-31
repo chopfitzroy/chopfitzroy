@@ -10,8 +10,8 @@ Things I'm doing in my free time:
 - Working on [thinkagain.tech](https://github.com/chopfitzroy/thinkagain.tech)
 - Working on [gameofgnomes.blog](https://github.com/chopfitzroy/gameofgnomes.blog)
 - Playing [World of Warcraft Forever](https://worldofwarcraft.blizzard.com/en-gb/forever)
-- Playing [ROM hacks](https://en.wikipedia.org/wiki/ROM_hacking) on my [Trimui Brick](https://trimui.net/collections/trimui-brick)
 - Working on my Table Top Roleplaying Game
+- Playing on my [RG SP](https://anbernic.com/products/rg-sp) running [BaseOS](https://github.com/pvaibhav/BaseOS) with the [slot.](https://slot-cfw.fyi/) frontend
 
 ### Stance on AI
 
@@ -41,7 +41,7 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 
 - [Zig](https://ziglang.org/)
 - [Roc](https://roc-lang.org/)
-- [Elm](https://elm-lang.org/) (yes it's still [alive](https://elm-lang.org/news/faster-builds))
+- [Elm](https://elm-lang.org/) (yes it's still alive [[1](https://elm-lang.org/news/faster-builds)] [[2](https://elm-lang.org/news/another-step-towards-elm-v1)])
 - [Steel](https://github.com/mattwparas/steel) (I want to learn a lisp and this is used in [Helix](https://helix-editor.com/))
 - [Gleam](https://gleam.run/)
 - [OCaml](https://ocaml.org/)
@@ -49,7 +49,6 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 ### Projects I think everyone should know about
 
 - [XState](https://xstate.js.org/)
-- [smolweb](https://smolweb.org/)
 - [Soupault](https://soupault.net/) ([this article](https://tiffnix.com/soupault) gives a great overview)
 
 ### Talks I think everyone should listen to
@@ -60,9 +59,9 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 
 ### Articles I think everyone should read
 
+- [The Decoherence trap](https://maevyn.codes/decoherence)
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
-- [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 
 ### Tenets that I believe lead to good software
 
@@ -80,6 +79,7 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 
 - [Trimui Brick](https://trimui.net/collections/trimui-brick)
 - [reMarkable 2](https://remarkable.com/products/remarkable-2)
+- [Anbernic RG SP](https://anbernic.com/products/rg-sp)
 
 ### Socials
 
