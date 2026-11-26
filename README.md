@@ -81,6 +81,23 @@ I use a bare bones [`pi`](https://pi.dev/) install with [OpenRouter](https://ope
 - [reMarkable 2](https://remarkable.com/products/remarkable-2)
 - [Anbernic RG SP](https://anbernic.com/products/rg-sp)
 
+### Series I've enjoyed
+
+- [Slough House](https://www.goodreads.com/series/101326-slough-house)
+- [The Dark Profit Saga](https://www.goodreads.com/series/207236-the-dark-profit-saga)
+- [The Rivers of London](https://www.goodreads.com/series/51937-rivers-of-london)
+
+### ROMHacks I'm playing
+
+- [Recharged Yellow](https://jaizu.moe/games/recharged-yellow/)
+- [Recharged Emerald](https://jaizu.moe/games/recharged-emerald/)
+
+### TTRPG's I play regularly
+
+- [Dragonbane](https://freeleaguepublishing.com/games/dragonbane/)
+- [Shadowdark](https://www.thearcanelibrary.com/blogs/shadowdark-blog/all-about-shadowdark-rpg)
+- [Dungeons and Dragons](https://www.dungeonsanddragons.com/)
+
 ### Socials
 
 - [GitHub](https://github.com/chopfitzroy)
